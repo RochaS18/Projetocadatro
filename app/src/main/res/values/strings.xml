@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">App Victor Pastor</string>
+
+    <string name="senha">Senha</string>
+
+    <string name="e_mail">E-mail</string>
+    <string name="imagem_do_login">Imagem do login</string>
+    <string name="recupera_conta">Recupera conta</string>
+    <string name="cadastra_conta">Cadastra conta</string>
+    <string name="acessar_o_sistema">Acessar o sistema</string>
+</string>
+
+</resources>
